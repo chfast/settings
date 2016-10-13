@@ -43,9 +43,6 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="CMake">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
