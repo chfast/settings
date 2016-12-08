@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="Move" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="Resume">
