@@ -4,7 +4,6 @@
       <mapping pattern="report" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
