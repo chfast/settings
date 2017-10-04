@@ -4,6 +4,7 @@
       <mapping pattern="report" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="jsonrpccpp-done" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
