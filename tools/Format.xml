@@ -1,7 +1,7 @@
 <toolSet name="Format">
   <tool name="clang-format" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/bin/clang-format-5.0" />
+      <option name="COMMAND" value="/usr/bin/clang-format" />
       <option name="PARAMETERS" value="-i $FilePathRelativeToProjectRoot$ -lines=$SelectionStartLine$:$SelectionEndLine$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
