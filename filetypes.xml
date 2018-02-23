@@ -10,6 +10,8 @@
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="a" type="SourceMap" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
