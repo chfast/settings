@@ -15,6 +15,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
